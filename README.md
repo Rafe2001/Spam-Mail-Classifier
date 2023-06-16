@@ -1,2 +1,3 @@
-# Spam-Mail-Classifier
-This model can classify whether the message send to you is spam or not.
+Spam Email Classifier
+This repository contains a machine learning model for classifying emails as spam or non-spam. 
+The model is built using natural language processing (NLP) techniques and can help identify and filter out unwanted spam emails.
